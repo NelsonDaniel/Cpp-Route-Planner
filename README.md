@@ -8,11 +8,11 @@ This is the first project of Udacity's C++ Nanodegree.  This is a route planner 
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/nelsondaniel/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/nelsondaniel/Cpp-Route-Planner.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:nelsondaniel/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:nelsondaniel/Cpp-Route-Planner.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally

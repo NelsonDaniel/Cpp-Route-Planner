@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This is the first project of Udacity's C++ Nanodegree.  This is a route planner which uses real map data from the OpenStreeMap project. 
 
 <img src="map.png" width="600" height="450" />
 

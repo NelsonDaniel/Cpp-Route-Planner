@@ -1,4 +1,4 @@
-# Route Planning Project
+# C++ OpenStreetMap Route Planner 
 
 This is the first project of Udacity's C++ Nanodegree.  This is a route planner which uses real map data from the OpenStreeMap project. 
 
